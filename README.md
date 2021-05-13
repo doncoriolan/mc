@@ -1,0 +1,2 @@
+- 👋 Hello I am Mike Coriolan.
+- I am mostly interested in Automating stuff. 
