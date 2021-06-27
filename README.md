@@ -4,6 +4,11 @@
 - My career starting with linux. 
 - Now I am mostly focused on mastering python
 
-## Personal Project 
+## Personal Project
 - Video Validation Solution
   - A tool to check CCTV system health and monitor status of CCTV cameras. 
+
+## Scripts 
+- body_detection.py
+  - Detects human body in frame then sends an email. 
+ 
