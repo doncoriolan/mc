@@ -11,4 +11,5 @@
 ## Scripts 
 - body_detection.py
   - Detects human body in frame then sends an email. 
- 
+- troubleshooting.sh
+  - Uses dialog to ping and check port connectivity to an IP.
